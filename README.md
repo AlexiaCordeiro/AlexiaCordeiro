@@ -1,10 +1,3 @@
-<div>
-  <a href="https://github.com/AlexiaCordeiro"></a>
-  <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=AlexiaCordeiro&show_icons=true&theme=dracula">
-  <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaCordeiro&layout=compact&langs_count-8&theme=dracula">      
-</div>
-
-
 ##
 <div>
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
